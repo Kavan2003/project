@@ -1,0 +1,7 @@
+ 
+2 	sugar	 53 	299 
+4 	coco	 45 	100 
+5 	kurkure	 10 	25 
+7 	banana	 20 	100 
+8 	apple	 70 	100 
+9 	mango	 40 	100

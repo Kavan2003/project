@@ -1,0 +1,6 @@
+shopping app:
+1 owner:
+2 buyer:
+
+1add/sub/quantity/Eneable special offer/edit price/add quantity/
+2seelist/add to cart/buy /remove from cart/final bill/
